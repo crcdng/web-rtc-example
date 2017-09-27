@@ -11,7 +11,7 @@ Tested with Chrome 61 / Mac and Chrome 61 / Android.
 
 ## What this does
 
-Currently all public WebRTC examples that I am aware of, including Googles' own codelab, are broken in Chrome. This is because a few months ago, Google removed the capability to run WebRTC from HTTP. This creates a problem especially when you want to stream in a LAN installation setting, and your DNS expert person is on holidays. Mine is (permanently).   
+Currently all public WebRTC examples that I am aware of, including Googles' own codelab, are broken in Chrome. This is because a few months ago, Google removed the capability to access audio/video (`navigator.mediaDevices.getUserMedia()`) over HTTP. This creates a problem especially when you want to stream in a LAN installation setting, and your DNS expert person that would wrestle a public HTTPS certificate into your local machine is on holidays. Mine is (permanently).   
 
 This example shows how to run WebRTC locally over HTTPS with self-signed certificates.
 
