@@ -23,5 +23,7 @@ Clean up the code. Check if it runs without the fallback stun/turn servers. And 
 uses
 http://materializecss.com/
 
+https://github.com/webrtc/adapter
+
 and code from
 https://codelabs.developers.google.com/codelabs/webrtc-web/#7
