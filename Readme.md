@@ -1,5 +1,7 @@
 # Local WebRTC example
 
+Update: Archiving this, no further work planned
+
 A minimal WebRTC implementation for local installations
 by [@crcdng](https://twitter.com/crcdng)
 
